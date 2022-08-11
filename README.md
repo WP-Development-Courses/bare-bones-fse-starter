@@ -1,6 +1,6 @@
 # Bare-bones FSE Starter Theme
 
-A theme that turns off every block-related feature that WordPress enables by default. It provides a clean slate, and has been created with client projects on mind. 
+A theme that turns off every block-related feature that WordPress enables by default. It provides a clean slate, and has been created with client projects in mind.
 
 The starter theme can be used to build block themes, as well as hybrid themes.
 
@@ -44,4 +44,4 @@ The starter theme can be used to build block themes, as well as hybrid themes.
 
 - If you are unsure about the difference between a block and a hybrid theme, please watch [Full-Site Editing Themes Explained: Classic, Hybrid, and Block](https://youtu.be/tsCT-18Udpw).
 - If you are not familiar with using `theme.json`, please check out the [free Theme.json Explained course](https://wpdevelopment.courses/lp/theme-json-explained/).
-- If you are interested in weekly email with Full-Site Editing tips, strategies, and case studies, please [subscribe to my newsletter](https://wpdevelopment.courses/lp/newsletter/). You can see the past issues [in the archive](https://wpdevelopmentcourses.ck.page/posts).
+- If you are interested in a weekly email with Full-Site Editing tips, strategies, and case studies, please [subscribe to my newsletter](https://wpdevelopment.courses/lp/newsletter/). You can see the past issues [in the archive](https://wpdevelopmentcourses.ck.page/posts).
