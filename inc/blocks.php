@@ -11,8 +11,8 @@
  *
  * See https://make.wordpress.org/core/2021/06/16/block-editor-api-changes-to-support-multiple-admin-screens-in-wp-5-8/
  *
- * @param bool|string[] Array of block type slugs, or boolean to enable/disable all. Default true (all registered block types supported).
- * @param WP_Block_Editor_Context The current block editor context.
+ * @param bool|string[] $allowed_block_types Array of block type slugs, or boolean to enable/disable all. Default true (all registered block types supported).
+ * @param WP_Block_Editor_Context $editor_context The current block editor context.
  *
  * @return string[] List of allowed block type slugs.
  */
