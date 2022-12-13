@@ -1,5 +1,5 @@
 {
-  "$schema": "https://schemas.wp.org/wp/6.0/theme.json",
+  "$schema": "https://schemas.wp.org/wp/6.1/theme.json",
   "version": 2,
   "settings": {
     "appearanceTools": false,
@@ -41,6 +41,17 @@
       "dropCap": false,
       "fontSizes": [],
       "fontFamilies": []
+    },
+    "useRootPaddingAwareAlignments": true
+  },
+  "styles": {
+    "spacing": {
+      "padding": {
+        "bottom": "1rem",
+        "left": "1rem",
+        "right": "1rem",
+        "top": "1rem"
+      }
     }
   },
   "templateParts": [

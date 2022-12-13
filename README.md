@@ -17,7 +17,7 @@ The starter theme can be used to build block themes, as well as hybrid themes.
 
 ### Blocks
 
-- Only show allowed blocks in the inserter. Defaults to all WordPress 6.0 Core blocks.
+- Only show allowed blocks in the inserter. Defaults to all WordPress 6.1 Core blocks.
 
 ### Patterns
 
@@ -37,8 +37,9 @@ The starter theme can be used to build block themes, as well as hybrid themes.
 
 ### Theme.json
 
-- Includes schema support for WordPress 6.0.
+- Includes schema support for WordPress 6.1.
 - Disables all available block settings.
+- Enables root padding aware alignments, and sets a body padding of 1rem.
 
 ## Ressources
 
