@@ -39,6 +39,7 @@ The starter theme can be used to build block themes, as well as hybrid themes.
 
 - Includes schema support for WordPress 6.1.
 - Disables all available block settings.
+- Enables root padding aware alignments, and sets a body padding of 1rem.
 
 ## Ressources
 
