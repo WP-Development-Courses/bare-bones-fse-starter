@@ -17,7 +17,7 @@ The starter theme can be used to build block themes, as well as hybrid themes.
 
 ### Blocks
 
-- Only show allowed blocks in the inserter. Defaults to all WordPress 6.0 Core blocks.
+- Only show allowed blocks in the inserter. Defaults to all WordPress 6.1 Core blocks.
 
 ### Patterns
 
