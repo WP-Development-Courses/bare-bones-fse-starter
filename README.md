@@ -37,7 +37,7 @@ The starter theme can be used to build block themes, as well as hybrid themes.
 
 ### Theme.json
 
-- Includes schema support for WordPress 6.0.
+- Includes schema support for WordPress 6.1.
 - Disables all available block settings.
 
 ## Ressources
